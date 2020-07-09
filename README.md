@@ -4,6 +4,7 @@ In this project, the cost (MSE) function’s Gradient and Gradient Vector are tr
 gradient descent with different learning rates. Implementation of gradient descent function on Boston House Price Dataset..
 ## What is gradient descent? 
 Gradient descent is an optimization algorithm used to minimize some function by iteratively moving in the direction of steepest descent as defined by the negative of the gradient. In machine learning, we use gradient descent to update the parameters of our model.So we used Gradient Descent for minimize our cost function.
+
 ![github-small](https://saugatbhattarai.com.np/wp-content/uploads/2018/06/gradient-descent-1.jpg)
 
 ## The Boston Housing Dataset
